@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-
+    /* Miała być tablica double[] */
 
         int []tab1 = new int[5];
         tab1[0] = 1;
